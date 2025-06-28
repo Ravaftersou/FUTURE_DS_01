@@ -71,7 +71,7 @@ _Add screenshots of your dashboard visuals here if available._
 
 ## 🔗 Contact
 
-Feel free to connect with me on [LinkedIn]([www.linkedin.com/in/sourav-nath-715170320](https://www.linkedin.com/in/sourav-nath-715170320?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)) or reach out for collaborations, feedback, or just to chat about data!
+Feel free to connect with me on [LinkedIn]([https://www.linkedin.com/in/sourav-nath-715170320?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]) or reach out for collaborations, feedback, or just to chat about data!
 
 ---
 
